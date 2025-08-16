@@ -64,3 +64,4 @@ This tool is intended only for use on platforms you own or have explicit permiss
 📧 Email: yasinovaydin@gmail.com
 
 🔗 Linkedin: linkedin.com/in/aydın-yasinov
+.
