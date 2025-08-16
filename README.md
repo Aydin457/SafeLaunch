@@ -31,17 +31,38 @@ Requires Python 3.9 or higher.
 ## 🚀 Usage
 
 Each module can be run independently:
-```bash
+```
 python safelaunch.py -u https://example.com -m headers
+```
+
+```
 python safelaunch.py -u https://example.com -m ssl
+```
+```
 python safelaunch.py -u https://example.com -m port
+```
+```
 python safelaunch.py -u https://example.com -m paths
+```
+```
 python safelaunch.py -u https://example.com -m xss
+```
+```
 python safelaunch.py -u https://example.com -m sqli
+```
+```
 python safelaunch.py -u https://example.com -m traversal
+```
+```
 python safelaunch.py -u https://example.com -m auth
+```
+```
 python safelaunch.py -u https://example.com -m js
+```
+```
 python safelaunch.py -u https://example.com -m deps
+```
+```
 python safelaunch.py -u https://example.com -m all
 ```
 
@@ -61,7 +82,6 @@ This tool is intended only for use on platforms you own or have explicit permiss
 
 ## 📬 Contact
 
- 📧 Email: yasinovaydin@gmail.com
+📧 Email: yasinovaydin@gmail.com
 
 🔗 Linkedin: [linkedin.com/in/aydın-yasinov](https://www.linkedin.com/in/aydın-yasinov/)
-
