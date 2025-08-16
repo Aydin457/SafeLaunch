@@ -22,13 +22,13 @@
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/aydin-yasinov/SafeLaunch.git
+git clone https://github.com/Aydin457/SafeLaunch.git
 cd SafeLaunch
 pip install -r requirements.txt
 ```
 Requires Python 3.9 or higher.
 
-🚀 Usage
+## 🚀 Usage
 
 Each module can be run independently:
 ```bash
@@ -47,21 +47,21 @@ python safelaunch.py -u https://example.com -m all
 
 Don’t forget to specify the target URL with the -u flag.
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Developed by [Aydın Yasinov](https://github.com/Aydin457)
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 
 This tool is intended only for use on platforms you own or have explicit permission to test. Unauthorized use is strictly prohibited and is the sole responsibility of the user.
 
-📬 Contact
+## 📬 Contact
 
-📧 Email: yasinovaydin@gmail.com
+## 📧 Email: yasinovaydin@gmail.com
 
 🔗 Linkedin: [linkedin.com/in/aydın-yasinov](https://www.linkedin.com/in/aydın-yasinov/)
-.
+
