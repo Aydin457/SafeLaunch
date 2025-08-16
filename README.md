@@ -61,7 +61,7 @@ This tool is intended only for use on platforms you own or have explicit permiss
 
 ## 📬 Contact
 
-## 📧 Email: yasinovaydin@gmail.com
+ 📧 Email: yasinovaydin@gmail.com
 
 🔗 Linkedin: [linkedin.com/in/aydın-yasinov](https://www.linkedin.com/in/aydın-yasinov/)
 
