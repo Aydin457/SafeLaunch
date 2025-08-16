@@ -53,7 +53,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 👨‍💻 Author
 
-Developed by Aydın Yasinov
+Developed by [Aydın Yasinov](https://github.com/Aydin457)
 
 ⚠️ Disclaimer
 
